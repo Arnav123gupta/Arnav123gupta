@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @Arnav123gupta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi, I'm Arnav ( Arnav Network)
 
-<!---
-Arnav123gupta/Arnav123gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛡️ Ethical Hacker | Bug Bounty Beginner  
+🎯 Goal: Become a professional bug bounty hunter  
+
+---
+
+### 🧠 Currently Learning
+- Web Application Security
+- Bug Bounty Methodology
+- OWASP Top 10
+- Reconnaissance & Enumeration
+
+---
+
+### 🛠️ Tools & Skills
+- Linux / Termux
+- Nmap
+- Burp Suite (Basic)
+- XSS & SQL Injection (Basic)
+- Git & GitHub
+
+---
+
+### 🚀 Projects
+- Bug bounty notes & practice
+- Recon scripts (learning phase)
+- Write-ups (coming soon)
+
+---
+
+### 🤝 Looking to Collaborate On
+- Bug bounty learning
+- Open-source security tools
+- Practice labs
+
+---
+
+### 📫 Contact
+- Telegram: https://t.me/HACKINGINFO01
