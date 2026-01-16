@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Arnav ( Arnav Network)
 
-🛡️ Ethical Hacker | Bug Bounty Beginner  
+🛡️ Ethical Hacker | Bug Bounty Learner
+ 
 🎯 Goal: Become a professional bug bounty hunter  
 
 ---
