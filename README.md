@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Tools & Skills
-- Linux / Termux
+- Linux / Termux kali linux
 - Nmap
 - Burp Suite (Basic)
 - XSS & SQL Injection (Basic)
