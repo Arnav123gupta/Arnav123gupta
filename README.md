@@ -19,8 +19,6 @@
 
 ---
 
-## 🖤 CYBER ZONE // ARNAV-X
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,20:9C27B0,40:2979FF,60:00C853,80:FFD600,100:000000&height=150&section=header&text=ARNAV%20%2F%2F%20CYBER%20LAB&fontSize=34&fontColor=00F5FF&animation=fadeIn&stroke=8A2BE2&strokeWidth=1" width="100%" alt="Black neon cyber lab banner" />
@@ -114,8 +112,6 @@ I'm **Arnav Network**
 
 ---
 
-## ⚡ CYBER MODE
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,20:9C27B0,40:2979FF,60:00E676,80:FFD600,100:FF1744&height=170&section=header&text=ENTER%20THE%20CYBER%20GRID&fontSize=27&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Animated multi-color cyber grid banner" />
@@ -173,8 +169,6 @@ whatsapp : 9889322155
 ![Learning Mode](https://img.shields.io/badge/STATUS-Always%20Learning-6c5ce7?style=for-the-badge)
 
 </div>
-
-### 🧪 Building & Exploring
 
 - **Zexx AI** — [Explore the project](https://github.com/Arnav123gupta/zexx-ai)
 - **Security Labs** — Practicing web security concepts in authorized learning environments
