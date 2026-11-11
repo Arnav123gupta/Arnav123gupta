@@ -99,6 +99,8 @@ I'm **Arnav**
 - **Security Tools & Methodology:** Burp Suite request analysis, Nmap in authorized labs, Linux command-line workflows, and structured security testing
 - **Secure Development:** Input validation, safer error handling, dependency hygiene, security logging, and remediation verification
 - **Testing & Reporting:** Reproducible test cases, evidence collection, clear vulnerability reports, risk explanation, and practical remediation notes
+- **Security Research Methodology:** Scope definition, attack-surface mapping, controlled validation, impact assessment, remediation guidance, and retesting
+- **Responsible Disclosure:** Permission-based testing, clear scope boundaries, minimal-impact validation, and professional communication of findings
 - **Automation & AI:** Python scripting, API integrations, and AI-assisted workflows for organizing security research
 
 ### 🧪 Hands-on Security Workflow
