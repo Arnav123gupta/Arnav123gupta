@@ -99,6 +99,17 @@ I'm **Arnav**
 - Secure coding, defensive validation, and remediation verification
 - Python scripting and AI-assisted workflows for security research
 
+### 🧪 Hands-on Security Workflow
+- **Web & API Testing:** HTTP methods, headers, cookies, sessions, authentication, authorization, and API request analysis
+- **Network Foundations:** TCP/IP, DNS, ports, protocols, service discovery, and network troubleshooting fundamentals
+- **Vulnerability Understanding:** SQL injection, cross-site scripting (XSS), path traversal, local file inclusion (LFI), and command-injection concepts — studied and tested only in authorized labs
+- **Defensive Engineering:** Input validation, request filtering, application-level rate limiting, security event logging, and safer error handling
+- **Verification & Code Review:** Python testing with pytest, static analysis with Bandit, and dependency auditing with pip-audit
+- **Build & Deployment Exposure:** Flask applications, Next.js APIs, Git-based workflows, and deployments using Vercel and Render
+- **AI-Assisted Workflows:** Exploring AI Gateway and model/API integrations for security research support
+
+<sub>Skill level: hands-on learner. Topics are listed as areas of practice and development, not claims of professional mastery.</sub>
+
 ---
 
 ## 🌐 Connect With Me
