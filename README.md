@@ -187,3 +187,42 @@ whatsapp : 9889322155
 <sub><b>◈ NO SHORTCUTS. JUST SKILL, CODE & CONSISTENCY. ◈</b></sub>
 
 </div>
+
+
+---
+
+## ⚡ NEON SPECTRUM // MULTI-COLOR CYBER MODE
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,20:9C27B0,40:2979FF,60:00E676,80:FFD600,100:FF1744&height=170&section=header&text=ENTER%20THE%20CYBER%20GRID&fontSize=27&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Animated multi-color cyber grid banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=900&color=FF1744&center=true&vCenter=true&width=700&lines=%5B+RED+%5D+THINK+FAST;%5B+VIOLET+%5D+STAY+CURIOUS;%5B+BLUE+%5D+ANALYZE+DEEP;%5B+GREEN+%5D+BUILD+SMART;%5B+YELLOW+%5D+KEEP+LEVELING+UP" alt="Multi-color cyber typing animation" />
+
+<img src="https://img.shields.io/badge/RED-THREAT%20AWARENESS-FF1744?style=for-the-badge&logoColor=white" alt="Red threat awareness" />
+<img src="https://img.shields.io/badge/VIOLET-RESEARCH-9C27B0?style=for-the-badge&logoColor=white" alt="Violet research" />
+<img src="https://img.shields.io/badge/BLUE-ANALYSIS-2979FF?style=for-the-badge&logoColor=white" alt="Blue analysis" />
+<img src="https://img.shields.io/badge/GREEN-SECURE%20BUILD-00C853?style=for-the-badge&logoColor=white" alt="Green secure build" />
+<img src="https://img.shields.io/badge/YELLOW-LEVEL%20UP-FFD600?style=for-the-badge&logoColor=black" alt="Yellow level up" />
+
+</div>
+
+```text
+  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+  ┃  ARNAV@SPECTRUM:~$ system --status                ┃
+  ┃                                                  ┃
+  ┃  RED     ▰▰▰▰▰  THINK      | VIOLET  ▰▰▰▰▰ RESEARCH ┃
+  ┃  BLUE    ▰▰▰▰▰  ANALYZE    | GREEN   ▰▰▰▰▰ BUILD    ┃
+  ┃  YELLOW  ▰▰▰▰▰  EVOLVE                            ┃
+  ┃                                                  ┃
+  ┃  ETHICS: ON     AUTHORIZATION: REQUIRED           ┃
+  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,25:9C27B0,50:2979FF,75:00C853,100:FFD600&height=8&section=footer" width="100%" alt="Five-color neon spectrum divider" />
+
+<sub>✦ RED × VIOLET × BLUE × GREEN × YELLOW — ONE CYBER MINDSET ✦</sub>
+
+</div>
