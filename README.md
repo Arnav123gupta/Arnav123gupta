@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=48&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&height=65&lines=Hi%2C+I'm+Arnav;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi%21+I%27m+Arnav+%3C3;Welcome+to+my+GitHub+Profile" alt="Animated welcome text" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Arnav123gupta&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
