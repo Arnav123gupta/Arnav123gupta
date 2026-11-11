@@ -172,8 +172,6 @@ I'm **Arnav**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,20:9C27B0,40:2979FF,60:00E676,80:FFD600,100:FF1744&height=170&section=header&text=ENTER%20THE%20CYBER%20GRID&fontSize=27&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Animated multi-color cyber grid banner" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=THINK+FAST;%E2%80%A2+THINK+CRITICALLY;%E2%80%A2+ANALYZE+DEEP;%E2%80%A2+VALIDATE+FINDINGS;%E2%80%A2+ENGINEER+DEFENSES" alt="Animated cyber mindset text" />
 
 <br/>
