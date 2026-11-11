@@ -24,7 +24,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,20:9C27B0,40:2979FF,60:00C853,80:FFD600,100:000000&height=150&section=header&text=ARNAV%20%2F%2F%20CYBER%20LAB&fontSize=34&fontColor=00F5FF&animation=fadeIn&stroke=8A2BE2&strokeWidth=1" width="100%" alt="Black neon cyber lab banner" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=%3E+ACCESS+GRANTED;%3E+THINK+LIKE+A+DEFENDER;%3E+BUILD.+LEARN.+SECURE." alt="Neon terminal typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=%3E+ACCESS+GRANTED;%3E+THINK+LIKE+A+DEFENDER;%3E+ANALYZE.+RESEARCH.+SECURE." alt="Neon terminal typing animation" />
 </a>
 
 ![CYBERSECURITY](https://img.shields.io/badge/CYBERSECURITY-FF1744?style=for-the-badge&logo=hackthebox&logoColor=00F5FF)
@@ -60,7 +60,7 @@ I'm **Arnav**
 
 - **Name:** Arnav
 - **Focus:** Web Security | Ethical Hacking | Bug Bounty Research
-- **Approach:** Learn by testing, documenting, and securing systems with permission
+- **Approach:** Assess, validate, document, and strengthen systems with explicit authorization
 - **Interests:** Vulnerability Analysis | Network Security | Security Tools | AI for Cybersecurity
 
 </details>
@@ -72,11 +72,11 @@ I'm **Arnav**
 <td width="60%" valign="top">
 
 - Conducting hands-on web security assessments and responsible vulnerability research in authorized environments
-- Studying OWASP Top 10, HTTP fundamentals, authentication, sessions, and access control
+- Applying OWASP Top 10 principles across HTTP, authentication, session management, and access-control assessments
 - Applying Burp Suite, Nmap, Kali Linux, and Linux across security labs and project workflows
-- Exploring reconnaissance, enumeration, and attack-surface understanding in permitted labs
+- Performing reconnaissance and service enumeration within permitted labs; mapping and assessing attack surfaces
 - Building Python-based security utilities and web-protection projects
-- Exploring AI-assisted security workflows and automation
+- Integrating AI-assisted workflows and automation into security-focused projects
 - Documenting findings, validating fixes, and strengthening defensive security skills
 
 </td>
@@ -101,14 +101,14 @@ I'm **Arnav**
 
 ### 🧪 Hands-on Security Workflow
 - **Web & API Testing:** HTTP methods, headers, cookies, sessions, authentication, authorization, and API request analysis
-- **Network Foundations:** TCP/IP, DNS, ports, protocols, service discovery, and network troubleshooting fundamentals
-- **Vulnerability Understanding:** SQL injection, cross-site scripting (XSS), path traversal, local file inclusion (LFI), and command-injection concepts — studied and tested only in authorized labs
+- **Network Analysis:** TCP/IP, DNS, ports, protocols, service discovery, and network troubleshooting
+- **Vulnerability Analysis:** SQL injection, cross-site scripting (XSS), path traversal, local file inclusion (LFI), and command-injection patterns — assessed only in authorized labs
 - **Defensive Engineering:** Input validation, request filtering, application-level rate limiting, security event logging, and safer error handling
 - **Verification & Code Review:** Python testing with pytest, static analysis with Bandit, and dependency auditing with pip-audit
-- **Build & Deployment Exposure:** Flask applications, Next.js APIs, Git-based workflows, and deployments using Vercel and Render
-- **AI-Assisted Workflows:** Exploring AI Gateway and model/API integrations for security research support
+- **Security Engineering Stack:** Flask applications, Next.js APIs, Git workflows, and deployments using Vercel and Render
+- **AI-Assisted Workflows:** AI Gateway and model/API integrations supporting security research workflows
 
-<sub>Focus areas are backed by practical lab work, project implementation, testing, and continuous technical development.</sub>
+<sub>Technical focus areas are demonstrated through hands-on labs, project implementation, automated testing, and documented security workflows.</sub>
 
 ---
 
@@ -148,7 +148,7 @@ I'm **Arnav**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,20:9C27B0,40:2979FF,60:00E676,80:FFD600,100:FF1744&height=170&section=header&text=ENTER%20THE%20CYBER%20GRID&fontSize=27&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Animated multi-color cyber grid banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=THINK+FAST;%E2%80%A2+STAY+CURIOUS;%E2%80%A2+ANALYZE+DEEP;%E2%80%A2+BUILD+SMART;%E2%80%A2+KEEP+LEVELING+UP" alt="Animated cyber mindset text" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=THINK+FAST;%E2%80%A2+THINK+CRITICALLY;%E2%80%A2+ANALYZE+DEEP;%E2%80%A2+VALIDATE+FINDINGS;%E2%80%A2+ENGINEER+DEFENSES" alt="Animated cyber mindset text" />
 
 <br/>
 
@@ -180,7 +180,7 @@ I'm **Arnav**
 
 ### 🧩 Additional Technical Builds
 - **NETWORK X GOAT MUSIC** — Application security, API, backend, and integration work. [Project repository](https://github.com/Arnav123gupta)
-- **ArenaMind / PromptWars** — AI project exploring prompt engineering and application workflows. [Live project](https://arnavamind-ai-web-app.vercel.app) · [Repository](https://github.com/arnav123gupta/arenamind-ai-web-app)
+- **ArenaMind / PromptWars** — AI project focused on prompt engineering and application workflows. [Live project](https://arnavamind-ai-web-app.vercel.app) · [Repository](https://github.com/arnav123gupta/arenamind-ai-web-app)
 - **CarbonTwin AI Platform** — AI platform project. [Repository](https://github.com/arnav123gupta/carbontwin-ai-platform)
 
 ---
@@ -191,7 +191,7 @@ I'm **Arnav**
 
 ### 🏅 Certifications & Technical Development
 
-- Google Cloud Skills Boost — Kubernetes learning badge (GSP318)
+- Google Cloud Skills Boost — Kubernetes skill badge (GSP318)
 - Advanced Prompt Engineering — Certificate
 - Continuous technical development through authorized security labs, vulnerability analysis, and defensive security projects
 
@@ -211,7 +211,7 @@ whatsapp : 9889322155
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=FF1744&center=true&vCenter=true&width=650&lines=%5B+SYSTEM+ONLINE+%5D;%5B+LEARN+%E2%80%A2+RESEARCH+%E2%80%A2+SECURE+%5D;%5B+AUTHORIZED+TESTING+ONLY+%5D" alt="Animated cyber lab status" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=FF1744&center=true&vCenter=true&width=650&lines=%5B+SYSTEM+ONLINE+%5D;%5B+ASSESS+%E2%80%A2+RESEARCH+%E2%80%A2+SECURE+%5D;%5B+AUTHORIZED+TESTING+ONLY+%5D" alt="Animated cyber lab status" />
 
 ![Ethical Research](https://img.shields.io/badge/FOCUS-Ethical%20Research-00b894?style=for-the-badge)
 ![Web Security](https://img.shields.io/badge/DOMAIN-Web%20Security-0984e3?style=for-the-badge)
