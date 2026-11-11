@@ -67,12 +67,13 @@ I'm **Arnav Network**
 <tr>
 <td width="60%" valign="top">
 
-- Learning Web Application Security
-- Practicing Bug Bounty Methodology
-- Studying OWASP Top 10
-- Exploring Reconnaissance & Enumeration
-- Improving my skills with hands-on labs
-- Building cybersecurity projects and learning every day
+- Building and testing full-stack web applications with Next.js, React, TypeScript, and Tailwind CSS
+- Developing Python-based security tools and Flask applications
+- Practicing web application security, OWASP Top 10 concepts, and responsible bug bounty methodology
+- Learning HTTP, APIs, authentication, input validation, and application-level security
+- Working with Git/GitHub, Vercel, and Render deployment workflows
+- Exploring AI-powered applications, API integrations, and workflow automation
+- Improving through hands-on projects, testing, documentation, and authorized labs
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -85,11 +86,14 @@ I'm **Arnav Network**
 
 ---
 
-### 🧠 Currently Learning
-- Web Application Security
-- Bug Bounty Methodology
-- OWASP Top 10
-- Reconnaissance & Enumeration
+### 🧠 Currently Learning & Improving
+- Web Application Security & OWASP Top 10
+- Bug Bounty methodology and authorized vulnerability assessment
+- Burp Suite, HTTP request/response analysis, and web testing workflows
+- Networking fundamentals, reconnaissance, and enumeration
+- Secure coding, API security, authentication, and rate limiting
+- AI application development, model/API integration, and automation
+- Cloud deployment and application troubleshooting
 
 ---
 
@@ -109,6 +113,19 @@ I'm **Arnav Network**
 ![OWASP](https://img.shields.io/badge/OWASP-9C27B0?style=plastic&logo=owasp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-00C853?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-2979FF?style=plastic&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD600?style=plastic&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=plastic&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-2979FF?style=plastic&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF1744?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2979FF?style=plastic&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-00C853?style=plastic&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=plastic&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-00D8FF?style=plastic&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-00C853?style=plastic&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-00C853?style=plastic&logo=nodedotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=plastic&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-9C27B0?style=plastic&logo=render&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-2979FF?style=plastic&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -139,12 +156,27 @@ I'm **Arnav Network**
 </div>
 
 
-### 🚀 Projects
-- Bug bounty notes & practice
-- Recon scripts 
-- Write-ups (coming soon)
+### 🚀 Projects & Build Highlights
+
+- **Zexx AI / NETWORK GPT** — AI-powered cybersecurity and bug bounty assistant concept; Next.js, TypeScript, Tailwind CSS, AI Gateway integrations, chat API, and voice features. [View repository](https://github.com/Arnav123gupta/zexx-ai)
+- **SentinelShield** — Python + Flask web protection and intrusion-detection learning project with request inspection, common web attack-pattern detection, rate limiting, event logging, and dashboard. Test suite: 72 tests passed; Bandit and pip-audit checks completed.
+- **ArenaMind / PromptWars** — AI web application project. [View live project](https://arnavamind-ai-web-app.vercel.app) · [GitHub repository](https://github.com/arnav123gupta/arenamind-ai-web-app)
+- **CarbonTwin AI Platform** — AI platform project. [View repository](https://github.com/arnav123gupta/carbontwin-ai-platform)
+- **NETWORK X GOAT MUSIC** — Full-stack application with backend, API, and WhatsApp integration work in progress.
+- **Bug bounty practice** — Learning notes, authorized lab practice, and security research documentation.
+- **Recon & security scripts** — Building small utilities while learning networking and web security.
 
 ---
+
+
+
+---
+
+### 🏅 Learning & Credentials
+
+- Google Cloud Skills Boost — Kubernetes learning badge (GSP318)
+- Advanced Prompt Engineering — Certificate
+- Continuous hands-on learning through cybersecurity and AI development projects
 
 ### 🤝 Looking to Collaborate On
 - Bug bounty learning
