@@ -124,7 +124,15 @@ I'm **Arnav Network**
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20-FF1744?style=for-the-badge" alt="Red color block" /> <img src="https://img.shields.io/badge/-%20-9C27B0?style=for-the-badge" alt="Violet color block" /> <img src="https://img.shields.io/badge/-%20-2979FF?style=for-the-badge" alt="Blue color block" /> <img src="https://img.shields.io/badge/-%20-00C853?style=for-the-badge" alt="Green color block" /> <img src="https://img.shields.io/badge/-%20-FFD600?style=for-the-badge" alt="Yellow color block" />
+<img src="https://img.shields.io/badge/THREAT%20AWARENESS-FF1744?style=for-the-badge&logoColor=white" alt="Threat awareness" />
+
+<img src="https://img.shields.io/badge/RESEARCH-9C27B0?style=for-the-badge&logoColor=white" alt="Research" />
+
+<img src="https://img.shields.io/badge/ANALYSIS-2979FF?style=for-the-badge&logoColor=white" alt="Analysis" />
+
+<img src="https://img.shields.io/badge/SECURE%20BUILD-00C853?style=for-the-badge&logoColor=white" alt="Secure build" />
+
+<img src="https://img.shields.io/badge/LEVEL%20UP-FFD600?style=for-the-badge&logoColor=black" alt="Level up" />
 
 </div>
 
