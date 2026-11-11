@@ -144,6 +144,18 @@ I'm **Arnav**
 ![Render](https://img.shields.io/badge/Render-9C27B0?style=plastic&logo=render&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-2979FF?style=plastic&logo=googlecloud&logoColor=white)
 
+**Security Testing & Core Concepts**
+
+![HTTP](https://img.shields.io/badge/HTTP-2979FF?style=plastic&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-9C27B0?style=plastic&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00C853?style=plastic&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-FFD600?style=plastic&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-111111?style=plastic&logo=gnubash&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-2979FF?style=plastic&logo=virtualbox&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-00C853?style=plastic&logo=pytest&logoColor=white)
+![Bandit](https://img.shields.io/badge/Bandit-FF1744?style=plastic&logoColor=white)
+![pip--audit](https://img.shields.io/badge/pip--audit-9C27B0?style=plastic&logo=python&logoColor=white)
+
 ---
 
 <div align="center">
