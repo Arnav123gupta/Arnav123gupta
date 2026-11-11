@@ -35,20 +35,6 @@
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════╗
-║  ARNAV@NEON-LAB:~$ ./mission.sh                     ║
-║                                                      ║
-║  [01] LEARN       ██████████  ACTIVE                 ║
-║  [02] BUILD       ██████████  ACTIVE                 ║
-║  [03] RESEARCH    ██████████  ACTIVE                 ║
-║  [04] SECURE      ██████████  ALWAYS                 ║
-║                                                      ║
-║  CORE: Curiosity | Discipline | Responsible Security║
-║  MODE: Authorized labs and permitted testing only   ║
-╚══════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,25:9C27B0,50:2979FF,75:00C853,100:FFD600&height=5&section=footer" width="100%" alt="Neon divider" />
