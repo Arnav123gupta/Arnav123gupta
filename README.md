@@ -160,7 +160,7 @@ whatsapp : 9889322155
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=%3E+ACCESS+GRANTED;%3E+THINK+LIKE+A+DEFENDER;%3E+BUILD.+LEARN.+SECURE." alt="Neon terminal typing animation" />
 </a>
 
-![CYBERSECURITY](https://img.shields.io/badge/ CYBERSECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=00F5FF)
+![CYBERSECURITY](https://img.shields.io/badge/CYBERSECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=00F5FF)
 ![WEB SECURITY](https://img.shields.io/badge/WEB_SECURITY-090014?style=for-the-badge&logo=owasp&logoColor=BF00FF)
 ![BUG BOUNTY](https://img.shields.io/badge/BUG_BOUNTY-000000?style=for-the-badge&logo=bugcrowd&logoColor=39FF14)
 
