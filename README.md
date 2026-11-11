@@ -98,6 +98,38 @@ whatsapp : 9889322155
 
 ---
 
+## ⚡ CYBER LAB // MISSION CONTROL
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00C8FF&center=true&vCenter=true&width=650&lines=%5B+SYSTEM+ONLINE+%5D;%5B+LEARN+%E2%80%A2+RESEARCH+%E2%80%A2+SECURE+%5D;%5B+AUTHORIZED+TESTING+ONLY+%5D" alt="Animated cyber lab status" />
+
+![Ethical Research](https://img.shields.io/badge/FOCUS-Ethical%20Research-00b894?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/DOMAIN-Web%20Security-0984e3?style=for-the-badge)
+![Learning Mode](https://img.shields.io/badge/STATUS-Always%20Learning-6c5ce7?style=for-the-badge)
+
+</div>
+
+```text
+┌──[ ARNAV@CYBER-LAB ]─────────────────────────────┐
+│                                                  │
+│  MISSION   : Understand. Test. Protect.          │
+│  INTEREST  : Web Security | Bug Bounty           │
+│  WORKFLOW  : Learn → Recon → Analyze → Report    │
+│  PRINCIPLE : Only systems I own or am authorized │
+│              to test.                            │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
+### 🧪 Building & Exploring
+
+- **Zexx AI** — [Explore the project](https://github.com/Arnav123gupta/zexx-ai)
+- **Security Labs** — Practicing web security concepts in authorized learning environments
+- **Open Source** — Learning by building, documenting, and sharing
+
+---
+
 <div align="center">
 
 ## 📊 GitHub Stats
