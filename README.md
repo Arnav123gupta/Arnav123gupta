@@ -47,8 +47,8 @@
 
 I'm **Arnav**
 
-🔐 Aspiring Ethical Hacker | Bug Bounty Hunter in Training  
-🛡️ Web Security Researcher | Security Automation Enthusiast
+🔐 Ethical Hacking | Bug Bounty Research | Web Application Security  
+🛡️ Web & API Security | Vulnerability Analysis | Security Automation
 
 🛡️ Ethical Hacking & Web Application Security  
 🎯 Mission: Find, understand, and help fix security weaknesses — responsibly
@@ -71,9 +71,9 @@ I'm **Arnav**
 <tr>
 <td width="60%" valign="top">
 
-- Practicing web application security and responsible vulnerability research in authorized environments
+- Conducting hands-on web security assessments and responsible vulnerability research in authorized environments
 - Studying OWASP Top 10, HTTP fundamentals, authentication, sessions, and access control
-- Using Burp Suite, Nmap, Kali Linux, and Linux for security learning and analysis
+- Applying Burp Suite, Nmap, Kali Linux, and Linux across security labs and project workflows
 - Exploring reconnaissance, enumeration, and attack-surface understanding in permitted labs
 - Building Python-based security utilities and web-protection projects
 - Exploring AI-assisted security workflows and automation
@@ -108,7 +108,7 @@ I'm **Arnav**
 - **Build & Deployment Exposure:** Flask applications, Next.js APIs, Git-based workflows, and deployments using Vercel and Render
 - **AI-Assisted Workflows:** Exploring AI Gateway and model/API integrations for security research support
 
-<sub>Skill level: hands-on learner. Topics are listed as areas of practice and development, not claims of professional mastery.</sub>
+<sub>Focus areas are backed by practical lab work, project implementation, testing, and continuous technical development.</sub>
 
 ---
 
@@ -173,10 +173,10 @@ I'm **Arnav**
 
 ### 🚀 Security Projects & Research
 
-- **SentinelShield** — Web protection and intrusion-detection learning project. Includes request inspection, detection of common web attack patterns, rate limiting, security event logging, and a monitoring dashboard. Validation: 72 tests passed; Bandit and pip-audit checks completed.
+- **SentinelShield** — Web protection and intrusion-detection system project. Includes request inspection, detection of common web attack patterns, rate limiting, security event logging, and a monitoring dashboard. Validation: 72 tests passed; Bandit and pip-audit checks completed.
 - **Zexx AI / NETWORK GPT** — AI-assisted cybersecurity and bug bounty research assistant concept, with security-focused chat, analysis, and voice workflows. [View repository](https://github.com/Arnav123gupta/zexx-ai)
-- **Security Lab Practice** — Authorized web-security exercises, vulnerability concepts, testing notes, and remediation learning.
-- **Recon & Python Utilities** — Small scripts and tools built to support networking and security-learning workflows.
+- **Security Research** — Authorized web-security assessments, vulnerability analysis, technical documentation, and remediation validation.
+- **Recon & Python Utilities** — Python-based utilities supporting network analysis and authorized security workflows.
 
 ### 🧩 Additional Technical Builds
 - **NETWORK X GOAT MUSIC** — Application security, API, backend, and integration work. [Project repository](https://github.com/Arnav123gupta)
@@ -189,16 +189,16 @@ I'm **Arnav**
 
 ---
 
-### 🏅 Learning & Credentials
+### 🏅 Certifications & Technical Development
 
 - Google Cloud Skills Boost — Kubernetes learning badge (GSP318)
 - Advanced Prompt Engineering — Certificate
-- Ongoing hands-on learning through authorized security labs, vulnerability analysis, and defensive projects
+- Continuous technical development through authorized security labs, vulnerability analysis, and defensive security projects
 
 ### 🤝 Looking to Collaborate On
-- Bug bounty learning
+- Responsible vulnerability research
 - Open-source security tools
-- Practice labs
+- Authorized security testing environments
 
 ---
 
@@ -215,13 +215,13 @@ whatsapp : 9889322155
 
 ![Ethical Research](https://img.shields.io/badge/FOCUS-Ethical%20Research-00b894?style=for-the-badge)
 ![Web Security](https://img.shields.io/badge/DOMAIN-Web%20Security-0984e3?style=for-the-badge)
-![Learning Mode](https://img.shields.io/badge/STATUS-Always%20Learning-6c5ce7?style=for-the-badge)
+![Research Mode](https://img.shields.io/badge/STATUS-Active%20Research-6c5ce7?style=for-the-badge)
 
 </div>
 
 - **Zexx AI** — [Explore the project](https://github.com/Arnav123gupta/zexx-ai)
-- **Security Labs** — Practicing web security concepts in authorized learning environments
-- **Open Source** — Learning by building, documenting, and sharing
+- **Security Labs** — Validating web security concepts in authorized environments
+- **Open Source** — Building, documenting, and contributing security-focused work
 
 ---
 
@@ -236,7 +236,7 @@ whatsapp : 9889322155
 
 ---
 
-**"Learn. Practice. Build. Secure."**
+**"Analyze. Validate. Strengthen. Secure."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,20:9C27B0,40:2979FF,60:00C853,80:FFD600,100:FF1744&height=110&section=footer" width="100%" alt="Animated footer" />
 
