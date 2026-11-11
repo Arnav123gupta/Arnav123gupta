@@ -150,7 +150,7 @@ whatsapp : 9889322155
 
 ---
 
-## 🖤 NEON CYBER ZONE // ARNV-X
+## 🖤 CYBER ZONE // ARNAV-X
 
 <div align="center">
 
