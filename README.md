@@ -114,7 +114,7 @@ I'm **Arnav Network**
 
 ---
 
-## ⚡ NEON SPECTRUM // MULTI-COLOR CYBER MODE
+## ⚡CYBER MODE
 
 <div align="center">
 
@@ -130,18 +130,6 @@ I'm **Arnav Network**
 
 </div>
 
-```text
-  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-  ┃  ARNAV@SPECTRUM:~$ system --status                ┃
-  ┃                                                  ┃
-  ┃  RED     ▰▰▰▰▰  THINK      | VIOLET  ▰▰▰▰▰ RESEARCH ┃
-  ┃  BLUE    ▰▰▰▰▰  ANALYZE    | GREEN   ▰▰▰▰▰ BUILD    ┃
-  ┃  YELLOW  ▰▰▰▰▰  EVOLVE                            ┃
-  ┃                                                  ┃
-  ┃  ETHICS: ON     AUTHORIZATION: REQUIRED           ┃
-  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,25:9C27B0,50:2979FF,75:00C853,100:FFD600&height=8&section=footer" width="100%" alt="Five-color neon spectrum divider" />
@@ -153,7 +141,7 @@ I'm **Arnav Network**
 
 ### 🚀 Projects
 - Bug bounty notes & practice
-- Recon scripts (learning phase)
+- Recon scripts 
 - Write-ups (coming soon)
 
 ---
@@ -181,18 +169,6 @@ whatsapp : 9889322155
 ![Learning Mode](https://img.shields.io/badge/STATUS-Always%20Learning-6c5ce7?style=for-the-badge)
 
 </div>
-
-```text
-┌──[ ARNAV@CYBER-LAB ]─────────────────────────────┐
-│                                                  │
-│  MISSION   : Understand. Test. Protect.          │
-│  INTEREST  : Web Security | Bug Bounty           │
-│  WORKFLOW  : Learn → Recon → Analyze → Report    │
-│  PRINCIPLE : Only systems I own or am authorized │
-│              to test.                            │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
 
 ### 🧪 Building & Exploring
 
