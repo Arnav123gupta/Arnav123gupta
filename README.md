@@ -147,6 +147,13 @@ I'm **Arnav**
 ![Render](https://img.shields.io/badge/Render-9C27B0?style=plastic&logo=render&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-2979FF?style=plastic&logo=googlecloud&logoColor=white)
 
+**AI Platforms & Assistants**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=plastic&logo=anthropic&logoColor=white)
+![Meta AI](https://img.shields.io/badge/Meta_AI-0866FF?style=plastic&logo=meta&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=plastic&logo=googlegemini&logoColor=white)
+
 **Security Testing & Core Concepts**
 
 ![HTTP](https://img.shields.io/badge/HTTP-2979FF?style=plastic&logoColor=white)
