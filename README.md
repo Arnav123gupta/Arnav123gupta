@@ -124,6 +124,9 @@ I'm **Arnav**
 ## 🛠️ Security Toolkit & Technical Skills
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-2979FF?style=plastic&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-00C853?style=plastic&logo=parrotsecurity&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-2979FF?style=plastic&logo=archlinux&logoColor=white)
+![Garuda Linux](https://img.shields.io/badge/Garuda_Linux-9C27B0?style=plastic&logo=garudalinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFD600?style=plastic&logo=linux&logoColor=black)
 ![Nmap](https://img.shields.io/badge/Nmap-00C853?style=plastic&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF1744?style=plastic&logo=burpsuite&logoColor=white)
