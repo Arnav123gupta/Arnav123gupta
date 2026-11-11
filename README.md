@@ -91,13 +91,15 @@ I'm **Arnav**
 ---
 
 ### 🧠 Security Research Focus
-- OWASP Top 10 and common web vulnerability classes
-- Burp Suite workflows and HTTP request/response analysis
-- Bug bounty methodology and responsible vulnerability reporting
-- Network fundamentals, service discovery, and authorized enumeration
-- API security, authentication, authorization, and rate limiting
-- Secure coding, defensive validation, and remediation verification
-- Python scripting and AI-assisted workflows for security research
+- **Web Security Fundamentals:** HTTP/HTTPS, request-response lifecycle, methods, status codes, headers, cookies, and browser security concepts
+- **OWASP & Vulnerability Classes:** OWASP Top 10, injection risks, XSS, path traversal, access-control weaknesses, and security misconfigurations
+- **Authentication & Session Security:** Login flows, session handling, token basics, authorization checks, and common access-control patterns
+- **API Security:** REST fundamentals, endpoint analysis, input validation, authentication, authorization, and rate-limiting concepts
+- **Network Knowledge:** TCP/IP, DNS, ports, protocols, service discovery, and network troubleshooting
+- **Security Tools & Methodology:** Burp Suite request analysis, Nmap in authorized labs, Linux command-line workflows, and structured security testing
+- **Secure Development:** Input validation, safer error handling, dependency hygiene, security logging, and remediation verification
+- **Testing & Reporting:** Reproducible test cases, evidence collection, clear vulnerability reports, risk explanation, and practical remediation notes
+- **Automation & AI:** Python scripting, API integrations, and AI-assisted workflows for organizing security research
 
 ### 🧪 Hands-on Security Workflow
 - **Web & API Testing:** HTTP methods, headers, cookies, sessions, authentication, authorization, and API request analysis
