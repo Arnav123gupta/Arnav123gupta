@@ -45,10 +45,13 @@
 
 ## Hi there 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Waving hand" />
 
-I'm **Arnav Network**
+I'm **Arnav**
 
-🛡️ Ethical Hacker | Bug Bounty hunter  
-🎯 Goal: Become a professional bug bounty hunter
+🔐 Aspiring Ethical Hacker | Bug Bounty Hunter in Training  
+🛡️ Web Security Researcher | Security Automation Enthusiast
+
+🛡️ Ethical Hacking & Web Application Security  
+🎯 Mission: Find, understand, and help fix security weaknesses — responsibly
 
 ---
 
@@ -56,8 +59,9 @@ I'm **Arnav Network**
 <summary>💫 More About Me</summary>
 
 - **Name:** Arnav
-- **Focus:** Ethical Hacking | Bug Bounty | Web Security
-- **Goal:** Build practical cybersecurity skills and become a professional bug bounty hunter
+- **Focus:** Web Security | Ethical Hacking | Bug Bounty Research
+- **Approach:** Learn by testing, documenting, and securing systems with permission
+- **Interests:** Vulnerability Analysis | Network Security | Security Tools | AI for Cybersecurity
 
 </details>
 
@@ -67,13 +71,13 @@ I'm **Arnav Network**
 <tr>
 <td width="60%" valign="top">
 
-- Building and testing full-stack web applications with Next.js, React, TypeScript, and Tailwind CSS
-- Developing Python-based security tools and Flask applications
-- Practicing web application security, OWASP Top 10 concepts, and responsible bug bounty methodology
-- Learning HTTP, APIs, authentication, input validation, and application-level security
-- Working with Git/GitHub, Vercel, and Render deployment workflows
-- Exploring AI-powered applications, API integrations, and workflow automation
-- Improving through hands-on projects, testing, documentation, and authorized labs
+- Practicing web application security and responsible vulnerability research in authorized environments
+- Studying OWASP Top 10, HTTP fundamentals, authentication, sessions, and access control
+- Using Burp Suite, Nmap, Kali Linux, and Linux for security learning and analysis
+- Exploring reconnaissance, enumeration, and attack-surface understanding in permitted labs
+- Building Python-based security utilities and web-protection projects
+- Exploring AI-assisted security workflows and automation
+- Documenting findings, validating fixes, and strengthening defensive security skills
 
 </td>
 <td width="40%" align="center" valign="middle">
@@ -86,14 +90,14 @@ I'm **Arnav Network**
 
 ---
 
-### 🧠 Currently Learning & Improving
-- Web Application Security & OWASP Top 10
-- Bug Bounty methodology and authorized vulnerability assessment
-- Burp Suite, HTTP request/response analysis, and web testing workflows
-- Networking fundamentals, reconnaissance, and enumeration
-- Secure coding, API security, authentication, and rate limiting
-- AI application development, model/API integration, and automation
-- Cloud deployment and application troubleshooting
+### 🧠 Security Research Focus
+- OWASP Top 10 and common web vulnerability classes
+- Burp Suite workflows and HTTP request/response analysis
+- Bug bounty methodology and responsible vulnerability reporting
+- Network fundamentals, service discovery, and authorized enumeration
+- API security, authentication, authorization, and rate limiting
+- Secure coding, defensive validation, and remediation verification
+- Python scripting and AI-assisted workflows for security research
 
 ---
 
@@ -104,7 +108,7 @@ I'm **Arnav Network**
 
 ---
 
-## 🛠️ Knowledge & Tools
+## 🛠️ Security Toolkit & Technical Skills
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-2979FF?style=plastic&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFD600?style=plastic&logo=linux&logoColor=black)
@@ -156,15 +160,17 @@ I'm **Arnav Network**
 </div>
 
 
-### 🚀 Projects & Build Highlights
+### 🚀 Security Projects & Research
 
-- **Zexx AI / NETWORK GPT** — AI-powered cybersecurity and bug bounty assistant concept; Next.js, TypeScript, Tailwind CSS, AI Gateway integrations, chat API, and voice features. [View repository](https://github.com/Arnav123gupta/zexx-ai)
-- **SentinelShield** — Python + Flask web protection and intrusion-detection learning project with request inspection, common web attack-pattern detection, rate limiting, event logging, and dashboard. Test suite: 72 tests passed; Bandit and pip-audit checks completed.
-- **ArenaMind / PromptWars** — AI web application project. [View live project](https://arnavamind-ai-web-app.vercel.app) · [GitHub repository](https://github.com/arnav123gupta/arenamind-ai-web-app)
-- **CarbonTwin AI Platform** — AI platform project. [View repository](https://github.com/arnav123gupta/carbontwin-ai-platform)
-- **NETWORK X GOAT MUSIC** — Full-stack application with backend, API, and WhatsApp integration work in progress.
-- **Bug bounty practice** — Learning notes, authorized lab practice, and security research documentation.
-- **Recon & security scripts** — Building small utilities while learning networking and web security.
+- **SentinelShield** — Web protection and intrusion-detection learning project. Includes request inspection, detection of common web attack patterns, rate limiting, security event logging, and a monitoring dashboard. Validation: 72 tests passed; Bandit and pip-audit checks completed.
+- **Zexx AI / NETWORK GPT** — AI-assisted cybersecurity and bug bounty research assistant concept, with security-focused chat, analysis, and voice workflows. [View repository](https://github.com/Arnav123gupta/zexx-ai)
+- **Security Lab Practice** — Authorized web-security exercises, vulnerability concepts, testing notes, and remediation learning.
+- **Recon & Python Utilities** — Small scripts and tools built to support networking and security-learning workflows.
+
+### 🧩 Additional Technical Builds
+- **NETWORK X GOAT MUSIC** — Application security, API, backend, and integration work. [Project repository](https://github.com/Arnav123gupta)
+- **ArenaMind / PromptWars** — AI project exploring prompt engineering and application workflows. [Live project](https://arnavamind-ai-web-app.vercel.app) · [Repository](https://github.com/arnav123gupta/arenamind-ai-web-app)
+- **CarbonTwin AI Platform** — AI platform project. [Repository](https://github.com/arnav123gupta/carbontwin-ai-platform)
 
 ---
 
@@ -176,7 +182,7 @@ I'm **Arnav Network**
 
 - Google Cloud Skills Boost — Kubernetes learning badge (GSP318)
 - Advanced Prompt Engineering — Certificate
-- Continuous hands-on learning through cybersecurity and AI development projects
+- Ongoing hands-on learning through authorized security labs, vulnerability analysis, and defensive projects
 
 ### 🤝 Looking to Collaborate On
 - Bug bounty learning
