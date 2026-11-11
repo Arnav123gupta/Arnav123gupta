@@ -146,3 +146,44 @@ whatsapp : 9889322155
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="Animated footer" />
 
 </div>
+
+
+---
+
+## 🖤 NEON CYBER ZONE // ARNV-X
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,45:101020,100:000000&height=150&section=header&text=ARNAV%20%2F%2F%20CYBER%20LAB&fontSize=34&fontColor=00F5FF&animation=fadeIn&stroke=8A2BE2&strokeWidth=1" width="100%" alt="Black neon cyber lab banner" />
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=%3E+ACCESS+GRANTED;%3E+THINK+LIKE+A+DEFENDER;%3E+BUILD.+LEARN.+SECURE." alt="Neon terminal typing animation" />
+</a>
+
+![CYBERSECURITY](https://img.shields.io/badge/ CYBERSECURITY-000000?style=for-the-badge&logo=hackthebox&logoColor=00F5FF)
+![WEB SECURITY](https://img.shields.io/badge/WEB_SECURITY-090014?style=for-the-badge&logo=owasp&logoColor=BF00FF)
+![BUG BOUNTY](https://img.shields.io/badge/BUG_BOUNTY-000000?style=for-the-badge&logo=bugcrowd&logoColor=39FF14)
+
+</div>
+
+```text
+╔══════════════════════════════════════════════════════╗
+║  ARNAV@NEON-LAB:~$ ./mission.sh                     ║
+║                                                      ║
+║  [01] LEARN       ██████████  ACTIVE                 ║
+║  [02] BUILD       ██████████  ACTIVE                 ║
+║  [03] RESEARCH    ██████████  ACTIVE                 ║
+║  [04] SECURE      ██████████  ALWAYS                 ║
+║                                                      ║
+║  CORE: Curiosity | Discipline | Responsible Security║
+║  MODE: Authorized labs and permitted testing only   ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:090014,100:000000&height=5&section=footer" width="100%" alt="Neon divider" />
+
+<sub><b>◈ NO SHORTCUTS. JUST SKILL, CODE & CONSISTENCY. ◈</b></sub>
+
+</div>
